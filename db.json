@@ -16,12 +16,7 @@
         "name": "rails",
         "owner": "rails"
       },
-      {
-        "id": "44ba678a-485d-42f4-9cb9-1f91c523a054",
-        "name": "mui-org",
-        "owner": "material-ui"
-      },
-      {
+        {
         "id": "45a43951-14ca-4af0-a870-625639cae6f5",
         "name": "sequelize",
         "owner": "sequelize"
